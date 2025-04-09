@@ -1,0 +1,28 @@
+{
+    "code": 0,
+    "data": {
+        "collectionMetadata": {
+            "collectionId": "1503",
+            "createdAt": "2018-05-21T17:30:48+08:00",
+            "name": "Ngee Ann Polytechnic Full-time Diploma Courses",
+            "description": "This dataset contains Ngee Ann Polytechnic full-time diploma courses.",
+            "lastUpdatedAt": "2024-06-06T14:48:12+08:00",
+            "coverageStart": "2017-01-01T08:00:00+08:00",
+            "coverageEnd": "2023-12-31T08:00:00+08:00",
+            "frequency": "annual",
+            "sources": [
+                "Ngee Ann Polytechnic"
+            ],
+            "managedBy": "Ngee Ann Polytechnic",
+            "childDatasets": [
+                "d_120ad7e0334d2c2a37ad62ae262f75fa",
+                "d_396032b4c704921d1047efebd9503207",
+                "d_770f3f4acf3b177d0df383e5972e3b5e",
+                "d_45b6c730a1ce9bf9d51d357309b3a382",
+                "d_90f6d846151a18612e4438495ebc5cb8",
+                "d_351bb7940ca11e8fa28a6dfc56e2f2c9"
+            ]
+        }
+    },
+    "errorMsg": ""
+}
