@@ -1,0 +1,98 @@
+[
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Managers & Administrators",
+        "median_income": 11297
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Managers & Administrators",
+        "median_income": 10020
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Professionals",
+        "median_income": 8620
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Professionals",
+        "median_income": 7520
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Associate Professionals & Technicians",
+        "median_income": 4680
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Associate Professionals & Technicians",
+        "median_income": 4680
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Clerical Support Workers",
+        "median_income": 3194
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Clerical Support Workers",
+        "median_income": 3413
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Service & Sales Workers",
+        "median_income": 3038
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Service & Sales Workers",
+        "median_income": 2535
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Craftsmen & Related Trades Workers",
+        "median_income": 3000
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Craftsmen & Related Trades Workers",
+        "median_income": 2319
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Plant & Machine Operators & Assemblers",
+        "median_income": 2500
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Plant & Machine Operators & Assemblers",
+        "median_income": 2106
+    },
+    {
+        "year": "2023",
+        "sex": "Male",
+        "occupation": "Cleaners, Labourers & Related Workers",
+        "median_income": 1872
+    },
+    {
+        "year": "2023",
+        "sex": "Female",
+        "occupation": "Cleaners, Labourers & Related Workers",
+        "median_income": 1832
+    }
+]

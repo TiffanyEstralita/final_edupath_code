@@ -1,0 +1,2152 @@
+[
+    {
+        "course_name": "Diploma in Biomedical Science",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Applied AI & Analytics",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Applied Chemistry",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Perfumery & Cosmetic Science",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Engineering with Business",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Infocomm Security Management",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Optometry",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Computer Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Media, Arts & Design",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Accountancy",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Business Administration",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Banking & Finance",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Business Programme",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Human Resource Management with Psychology",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Architecture",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Chemical Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Food Science & Technology",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aerospace Electronics",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Mechatronics & Robotics",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Infocomm Technology Programme",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Interior Design",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Information Technology",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Landscape Architecture",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Integrated Events & Project Management",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Electrical & Electronic Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aeronautical Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Engineering Programme",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Mechanical Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Maritime Business",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Facilities Management",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Civil Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Marine Engineering",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Science Programme",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Nautical Studies",
+        "institution": "Singapore Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Pharmaceutical Science",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Food, Nutrition & Culinary Science",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Chemical Engineering",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Veterinary Technology",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Medical Biotechnology",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Business Programme",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Accountancy & Finance",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in International Trade & Logistics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Hospitality & Tourism Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Law & Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Business",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Culinary & Catering Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Communications & Media Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Marketing",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Apparel Design & Merchandising",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Interior Architecture & Design",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Digital Film & Television",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Product & Industrial Design",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Communication Design",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aviation Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Computer Engineering",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Integrated Facility Management",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Architectural Technology & Building Services ",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Biomedical Engineering",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Business Process & Systems Engineering",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aerospace Electronics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aerospace Engineering",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Engineering Programme",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Electronics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Mechatronics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Psychology Studies",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Social Sciences in Gerontology",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Early Childhood Development & Education",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Information Technology",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Game Design & Development",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Big Data & Analytics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Cybersecurity & Digital Forensics",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common ICT Programme",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Applied Artificial Intelligence  ",
+        "institution": "Temasek Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy and Business",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (3-yr direct Honours Programme)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business (3-yr direct Honours Programme)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business and Computing",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Aerospace Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bioengineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Chemical and Biomolecular Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Computer Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Civil Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Computer Science",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Electrical and Electronic Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Environmental Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Engineering and Media",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Materials Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mechanical Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Maritime Studies",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Art, Design & Media",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Chinese",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Communication Studies",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "English",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Linguistics and Multilingual Studies",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Psychology",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Sociology",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Sciences **",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Sciences (Traditional Chinese Medicine) #",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biological Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Chemistry & Biological Chemistry",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematics & Economics **",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematical Science",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Physics \/ Applied Physics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Sports Science and Management",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Science (with Education)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Arts (with Education)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Social Sciences",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration (Accountancy)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration (Accountancy) (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Communications and Media)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Computational Biology) **",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Computer Engineering) **",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Computer Science)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Electronic Commerce)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Information Systems)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Dental Surgery",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Architecture) ** #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Industrial Design)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Project and Facilities Management)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Real Estate)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Bioengineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Chemical Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Civil Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Computer Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Electrical Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Engineering Science)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Environmental Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Industrial and Systems Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Materials Science and Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Mechanical Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Laws (LLB) (Hons) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Medicine and Bachelor of Surgery (MBBS) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Nursing)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Nursing) (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Music **",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Applied Science **",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Applied Science (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Computational Biology) **",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Pharmacy) (Hons) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (4-years programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (4-years programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management (4-years programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management (4-years programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics (4-years programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics (4-years programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management (4-years programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management (4-years programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences (4-years programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences (4-years programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law (4-years programme) #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law (4-years programme) Cum Laude and above #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Accountancy",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Banking & Finance",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Business Studies",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Business Programme",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in International Trade & Business",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Tourism & Resort Management",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Design",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Hotel & Leisure Facilities Management",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Real Estate Business",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Aerospace Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Automation & Mechatronic Systems",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Biomedical Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Engineering Programme",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Electrical Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Electronic & Computer Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Engineering Science",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Marine & Offshore Technology",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Mechanical Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Media Programme",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Film, Sound & Video",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Mass Communication",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Media Post-Production",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Nursing",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Optometry",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Arts Business Management",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Chinese Media & Communication",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Chinese Studies",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Community Development",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Early Childhood Development & Education",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Tamil Studies with Early Education",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common ICT Programme",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Cybersecurity & Digital Forensics",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Data Science",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Immersive Media",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Information Technology",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Common Science Programme",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Biomedical Science",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Chemical & Biomolecular Engineering",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Environmental & Water Technology",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Landscape Design & Horticulture",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Diploma in Pharmaceutical Science",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Science (Traditional Chinese Medicine) #",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematics & Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Architecture) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Biomedical Engineering) ^^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Medicine and Bachelor of Surgery #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (4-year programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (4-year programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management (4-year programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management (4-year programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics (4-year programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics (4-year programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management (4-year programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management (4-year programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences (4-year programme)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences (4-year programme) Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law (4-year programme) #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law (4-year programme) Cum Laude and above #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts in Game Design",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Fine Arts in Digital Arts & Animation",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Computer Science & Game Design",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Computer Science in Real-Time Interactive Simulation",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts with Honours in Communication Design",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts with Honours in Interior Design",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Chemical Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Marine Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Naval Architecture",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Offshore Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours in Food & Human Nutrition",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Chemical Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Electrical Engineering & Information Technology",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Professional Studies in Culinary Arts Management",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor in Science (Occupational Therapy)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor in Science (Physiotherapy)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Aeronautical Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Aerospace Systems",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechanical Design Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechatronics",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours in Nursing Practice",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Major in Hospitality Management)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Early Childhood Education",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Biomedical Engineering)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Laws (L.L.B) (Hons) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Music",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Environmental Studies",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems Management Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences Cum Laude and above",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law Cum Laude and above #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Engineering Product Development)",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Engineering Systems and Design)",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Information Systems Technology and Design)",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Electrical Power Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor in Science (Diagnostic Radiography)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours in Computing Science",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "History",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Sciences & Chinese Medicine #",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematical Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Pharmacy)(Hons) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts with Honours in Criminology and Security",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Accountancy (Hons)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Double Degree in Bachelor of Accountancy (Hons) and Bachelor of Business (Hons)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business (Hons)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Double Degree in Bachelor of Business (Hons) and Bachelor of Engineering (Hons) (Computer Science)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Aerospace Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Bioengineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering  (Hons) (Chemical And Biomolecular Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Civil Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Computer Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Computer Science)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Electrical & Electronic Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Environmental Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Information Engineering & Media)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) (Maritime Studies)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Materials Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Hons) (Mechanical Engineering)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Fine Arts (Hons)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Chinese",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Communication Studies (Hons)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in English",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in History",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Linguistics And Multilingual Studies",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Psychology",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Public Policy And Global Affairs",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) in Sociology",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Double Degree in Bachelor of Science (Hons) in Biomedical Sciences and Bachelor of Medicine (Chinese Medicine) #",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) in Biological Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) in Chemistry & Biological Chemistry",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) in Mathematical Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) in Mathematics & Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) in Physics\/Applied Physics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) (Sport Science & Management)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Hons) (Education)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) (Education)",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Laws #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Pharmacy) #",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Business Analytics)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts with Honours",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts in Game Design ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Fine Arts in Digital Arts & Animation ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Computer Science & Game Design ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Marine Engineering ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Naval Architecture ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Offshore Engineering ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Accountancy with Honours",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Hospitality Business with Honours ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business and Computing ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Chemical & Biomolecular Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Electrical & Electronic Engineering",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Engineering & Media",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Linguistics & Multilingual Studies",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Philosophy",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Public Policy and Global Affairs",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Sciences & Chinese Medicine # ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Environmental Earth Systems Sciences ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Physics & Applied Physics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Sport Science and Management",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration (Accountancy) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Fine Arts in Digital Art and Animation",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Computer Science and Game Design ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours in Food and Human Nutrition",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Information & Communications Technology (Information Security) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Information & Communications Technology (Software Engineering)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Land)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Hospitality Business with Honours",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science with Honours in Nursing",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor in Science (Diagnostic Radiography) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration in Food Business Management",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Accountancy (Cum Laude and above)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Business Management (Cum Laude and above)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Economics (Cum Laude and above)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Information Systems (Cum Laude and above)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Social Sciences (Cum Laude and above)",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Law (Cum Laude and above) #",
+        "institution": "Singapore Management University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Accountancy",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Finance",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Marketing",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Architecture and Sustainable Design)",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Philosophy ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Medicine #",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Engineering Science) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Hons) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Industrial Design) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Information & Communications Technology (Information Security)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Pharmaceutical Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Building Services)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Telematics (Intelligent Transportation Systems Engineering)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering in Systems Engineering (ElectroMechanical Systems) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Food Technology with Honours",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Electrical Power Engineering ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration in Food Business Management ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Human Resource Management",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Double Degree in Business and Computer Engineering\/Computing",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Double Degree in Engineering and Economics ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Art, Design and Media",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Inter-Disciplinary Double Major ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biomedical Sciences and Chinese Medicine # ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Chemistry and Biological Chemistry",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematics and Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Physics and Applied Physics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Computational Biology) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Data Science and Analytics) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Business Administration ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Information Security) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Arts (Architecture)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Computer Science and Game Design",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Systems Engineering (ElectroMechanical Systems)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor in Science (Radiation Therapy) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Civil Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Aerospace Systems ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Early Childhood Education ^",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Social Work",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Finance ^",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Supply Chain Management ^",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biological Sciences \/ Biomedical Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Mathematical Sciences \/ Mathematical Sciences and Economics",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Science (with Education) ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Data Science and Analytics)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Music ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Aircraft Systems Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Land) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Diagnostic Radiography)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Occupational Therapy)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Radiation Therapy) ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Physiotherapy)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Electrical Engineering & Information Technology ^",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Early Childhood Education",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Business Analytics",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science in Supply Chain Management",
+        "institution": "Singapore University of Social Sciences",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering (Computer Science and Design)",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Pharmaceutical Science) (Hons) ^",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Computing (Information Security)",
+        "institution": "National University of Singapore",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Data Science and Artificial Intelligence ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Inter-Disciplinary Double Major8",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biological and Biomedical Sciences",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Biological Sciences and Psychology ^",
+        "institution": "Nanyang Technological University",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Architecture and Sustainable Design) ###",
+        "institution": "Singapore University of Technology and Design",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Science (Air Transport Management)",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Aerospace Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Bachelor of Engineering with Honours in Mechanical Engineering",
+        "institution": "Singapore Institute of Technology",
+        "mode_of_study": "Full-time"
+    },
+    {
+        "course_name": "Career Conversion Programme for Registered Nurses (Diploma)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Applied Management for the Future Workplace",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Business Practice (Administration & Management)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Business Practice (International Supply Chain Management)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Care and Programme (Student Services & Coaching)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Digital Communication",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Aerospace)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Building Services & Fire Safety)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Civil & Structural)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Electrical)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Electronics)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Marine)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Mechanical)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    },
+    {
+        "course_name": "Diploma in Engineering (Mechatronics)",
+        "institution": "Ngee Ann Polytechnic",
+        "mode_of_study": "Part-time"
+    }
+]
